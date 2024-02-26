@@ -1,0 +1,35 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+.background_color {
+    background-color: aqua;
+}
+
+header h1 {
+    text-align: center;
+}
+
+header img {
+    align-items: center;
+    justify-content: center;
+    width: 150px;
+    border-radius: 50%;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+#about-me {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+}
+
+
+
